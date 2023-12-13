@@ -17,7 +17,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "saitamar10/Notion-blog",
+      repo: "saitamar10/saitamanew",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
